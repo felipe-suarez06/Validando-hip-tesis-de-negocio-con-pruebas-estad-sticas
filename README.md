@@ -1,4 +1,4 @@
-# Validando-hip-tesis-de-negocio-con-pruebas-estad-sticas
+# Validando-hipotesis-de-negocio-con-pruebas-estadísticas
 
 - **Qué hice:** Exploraré, validé y analizé estadísticamente el experimento A/B para identificar **diferencias significativas** entre las páginas y traducir los resultados en **recomendaciones para el negocio.**
 - **Problema:** ejecutar un **experimento A/B** en la **página de inicio (landing page)**, comparando dos versiones (A y B) con el objetivo de mejorar la tasa de conversión y el valor económico por usuario.
